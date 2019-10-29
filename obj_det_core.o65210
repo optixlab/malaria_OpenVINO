@@ -1,0 +1,33 @@
+
+########################################################################
+#      Date:           Tue Oct 29 01:17:59 PDT 2019
+#    Job ID:           65210.c003
+#      User:           u30476
+# Resources:           neednodes=1:tank-870:i5-6500te,nodes=1:tank-870:i5-6500te,walltime=01:00:00
+########################################################################
+
+[setupvars.sh] OpenVINO environment initialized
+results/core
+[ INFO ] Loading network files:
+	models/FP32/model.xml
+	models/FP32/model.bin
+[ INFO ] Average running time of one iteration: 285.0058078765869 ms
+Probability of having disease= 0.0, performed in 285.0058078765869 ms
+[ INFO ] Average running time of one iteration: 253.21030616760254 ms
+Probability of having disease= 0.0, performed in 253.21030616760254 ms
+[ INFO ] Average running time of one iteration: 300.76050758361816 ms
+Probability of having disease= 0.0, performed in 300.76050758361816 ms
+[ INFO ] Average running time of one iteration: 235.03351211547852 ms
+Probability of having disease= 0.0, performed in 235.03351211547852 ms
+[ INFO ] Average running time of one iteration: 235.5949878692627 ms
+Probability of having disease= 0.0, performed in 235.5949878692627 ms
+[ INFO ] Average running time of one iteration: 234.78174209594727 ms
+Probability of having disease= 0.0, performed in 234.78174209594727 ms
+[ INFO ] Average running time of one iteration: 234.57932472229004 ms
+Probability of having disease= 0.0, performed in 234.57932472229004 ms
+
+########################################################################
+# End of output for job 65210.c003
+# Date: Tue Oct 29 01:18:08 PDT 2019
+########################################################################
+

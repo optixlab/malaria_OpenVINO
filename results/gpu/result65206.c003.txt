@@ -1,0 +1,14 @@
+Malaria probability: nan
+ Inference performed in 11.7ms 
+Malaria probability: nan
+ Inference performed in 11.7ms 
+Malaria probability: nan
+ Inference performed in 11.6ms 
+Malaria probability: nan
+ Inference performed in 11.8ms 
+Malaria probability: nan
+ Inference performed in 11.8ms 
+Malaria probability: nan
+ Inference performed in 11.7ms 
+Malaria probability: nan
+ Inference performed in 11.6ms 

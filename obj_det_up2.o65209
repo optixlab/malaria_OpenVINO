@@ -1,0 +1,33 @@
+
+########################################################################
+#      Date:           Tue Oct 29 01:17:56 PDT 2019
+#    Job ID:           65209.c003
+#      User:           u30476
+# Resources:           neednodes=1:up-squared,nodes=1:up-squared,walltime=01:00:00
+########################################################################
+
+[setupvars.sh] OpenVINO environment initialized
+results/up2
+[ INFO ] Loading network files:
+	models/FP16/model.xml
+	models/FP16/model.bin
+[ INFO ] Average running time of one iteration: 542.8733825683594 ms
+Probability of having disease= nan, performed in 542.8733825683594 ms
+[ INFO ] Average running time of one iteration: 548.3348369598389 ms
+Probability of having disease= nan, performed in 548.3348369598389 ms
+[ INFO ] Average running time of one iteration: 539.452075958252 ms
+Probability of having disease= nan, performed in 539.452075958252 ms
+[ INFO ] Average running time of one iteration: 536.1251831054688 ms
+Probability of having disease= nan, performed in 536.1251831054688 ms
+[ INFO ] Average running time of one iteration: 534.5807075500488 ms
+Probability of having disease= nan, performed in 534.5807075500488 ms
+[ INFO ] Average running time of one iteration: 547.3253726959229 ms
+Probability of having disease= nan, performed in 547.3253726959229 ms
+[ INFO ] Average running time of one iteration: 542.6726341247559 ms
+Probability of having disease= nan, performed in 542.6726341247559 ms
+
+########################################################################
+# End of output for job 65209.c003
+# Date: Tue Oct 29 01:18:52 PDT 2019
+########################################################################
+
