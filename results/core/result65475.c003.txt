@@ -1,0 +1,14 @@
+Malaria probability: 0.9991603
+ Inference performed in 16.3ms 
+Malaria probability: 6.1893174e-06
+ Inference performed in 11.8ms 
+Malaria probability: 1.4104097e-05
+ Inference performed in 17.3ms 
+Malaria probability: 0.9999951
+ Inference performed in 12.9ms 
+Malaria probability: 0.12296526
+ Inference performed in 12.9ms 
+Malaria probability: 0.878859
+ Inference performed in 12.9ms 
+Malaria probability: 0.096709296
+ Inference performed in 12.9ms 
