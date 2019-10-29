@@ -1,3 +1,6 @@
-### Healthcare application - Pneumonia Classification Sample
+### Healthcare application - Malaria Classification Sample
 
-This reference example showcases a healthcare application performing pneumonia classification on X-ray images, it demonstrates the method of Class Activation Maps with OpenVINO, it also shows with the help of heatmap which regions the network looked to make its choice.
+This reference example showcases an application performing malarai classification on blood cells. 
+Run this on the Intel DevCloud with OpenVINO installed. 
+
+
